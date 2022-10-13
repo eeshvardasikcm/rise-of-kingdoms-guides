@@ -1,4 +1,4 @@
-# Migrating to a new kingdom guide
+# Migrating to a new kingdom follow along
 written by EeshvarDasIKCM.
 ## acquiring the migration page
 I have watched some tutorials on YouTube and it appears that in order to migrate to a new kingdom, you need to have a migration page item in rise of Kingdoms.
