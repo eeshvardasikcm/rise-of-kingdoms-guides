@@ -19,3 +19,4 @@ The first thing I'm going to do is start to build a flag at a very slow pace.
 
 #### slow pace flag building day one
 The flag is starting to be built at 0% completion.
+October 13th: started building with one troop. placing a marker instructing My alliance members to build with one true only.
