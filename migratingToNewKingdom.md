@@ -19,4 +19,6 @@ The first thing I'm going to do is start to build a flag at a very slow pace.
 
 #### slow pace flag building day one
 The flag is starting to be built at 0% completion.
-October 13th: started building with one troop. placing a marker instructing My alliance members to build with one true only.
+- October 13th, first flag: started building with one troop. placing a marker instructing My alliance members to build with one troop only. I went to sleep for the night, woke up later on the 13th. less than 12 hours elapsed and the flag had been completed building. I am assuming one of my alliance members failed to use only one troop and the flag building was done very quickly.
+- October 13th, first analysis: it appears that Alliance credits are a large gain from the flag building. We have enough credits to build one or two more flags at the completion of the first flag.
+- October 13th, second flag: started building a second flag with only one troop and the same marker instructing to use only one troop. I am also writing in the Alliance chat space doubling up the instruction to use only one troop. maybe this time the flag will build even slower.
