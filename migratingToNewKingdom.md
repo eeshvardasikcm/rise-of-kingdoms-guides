@@ -10,6 +10,7 @@ after several alliance members have helped to build flags and gain alliance cred
 
 ## using the migration page
 from what I remember when I watched the YouTube videos about Rise of kingdoms migration pages, The migration page can only be used periodically, possibly only once every 3 months. a short window opens up during a 3-month span for the migration page can be used to migrate to Kingdom versus kingdom play. Kingdom versus Kingdom play is a restart of the map. Members from various kingdoms are migrated into one new kingdom. The kingdom versus Kingdom kingdoms are less in number than the individual kingdoms that players start out and when they first create an account. some of the big players are in the Kingdom verse Kingdom zones.
+I believe that migration pages are meant for only individuals, so if an alliance is going to move over to Kingdom versus Kingdom and maintain their alliance membership, they would have to be more to it than simply using migration pages as they're designed.
 
 ## My personal experience leading an alliance and trying to migrate my members to a new kingdom
 I want to log status reports and track my progress in attempts to advance my alliance members to a new kingdom
@@ -17,8 +18,16 @@ I want to log status reports and track my progress in attempts to advance my all
 I'm not doing a lot of research advanced before starting this process. I'm going to use a crude process similar to the one I outlined above, and try to get all my members migrated to new kingdom.
 The first thing I'm going to do is start to build a flag at a very slow pace.
 
-#### slow pace flag building day one
+#### slow pace flag building day one, two and three
 The flag is starting to be built at 0% completion.
 - October 12th, first flag: started building with one troop. placing a marker instructing My alliance members to build with one troop only. I went to sleep for the night, woke up later on the 13th. less than 12 hours elapsed and the flag had been completed building. I am assuming one of my alliance members failed to use only one troop and the flag building was done very quickly.
 - October 13th, first analysis: it appears that Alliance credits are a large gain from the flag building. We have enough credits to build one or two more flags at the completion of the first flag.
 - October 13th, second flag: started building a second flag with only one troop and the same marker instructing to use only one troop. I am also writing in the Alliance chat space doubling up the instruction to use only one troop. maybe this time the flag will build even slower.
+- October 13th, third flag: started building a third flag. defense concerns became important suddenly today.
+- October 14th, flags finished building. it appears that some alliance credits did go into the Alliance and the appearances that some of the members were able to keep some of the credits. We were able to buy and resell one migration page to one of our members. after talking with one of my lead advisors, We both agreed that we don't have a good enough plan to migrate our whole alliance over to Kingdom versus Kingdom. We decided to suspend our plans on migrating over to another kingdom as a whole alliance. there are integral parts of our alliance that I have decided to focus on that may lead to reaching this ultimate goal of moving our whole alliance over to Kingdom versus Kingdom and staying intact as the alliance we were in the previous kingdom 
+
+## internal alliance loyalty and cooperation
+communication inside Rise of Kingdoms and outside rise of Kingdoms appears to be an important part of being able to achieve what may be impossible. moving a whole alliance over to Kingdom versus Kingdom mode from their previous kingdom is not a normal function of the app Rise of Kingdoms.
+
+### occasional blog entries concerning alliance loyalty and cooperation
+- October 14th, as the leader of my alliance, I am making moves. that will help inform and educate my members better on how we will be able to make advances into larger game breaking moves including to migrating a whole Alliance into Kingdom versus Kingdom.
