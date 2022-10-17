@@ -6,6 +6,7 @@ Alliance cities that stay defensive provide a strong defensive force for the who
 when your city is attacked by other cities, you only suffer severe injuries.
 you will not have any loss of troops if you either heal your troops quickly, or maintain a large enough hospitals size.
 The opposing attacker will have loss of life if your troops are strong enough.
+a good way to avoid being pillaged is by assisting other Graha Alliance members with your storage excess.
 ### becoming self-reliant
 sustaining your own resource stream by gathering consistently helps your alliance members.
 self-sufficiency as an alliance city reduces the need for your alliance co-members to assist you.
