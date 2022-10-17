@@ -13,6 +13,10 @@ self-sufficiency as an alliance city reduces the need for your alliance co-membe
 while gathering, your troops also have similar protection as they do within your own city.
 you will only suffer severe injuries while gathering.
 if you're a hospitals or large enough or you are fast enough at healing your troops, you should not lose any lives at all.
+### cooperation amongst alliance members
+Good cooperation amongst alliance members helps organize defensively very well.
+defensive tactics that are very well organized will help to stop attacks from other cities.
+Good communication and cooperation amongst alliance members helps keep a good natured peaceful attitude within the alliance and is a very useful tool for organizing commanders.
 ## peacekeeping
 The term peacekeeping is strictly used by the system in the rise of kingdoms game as a measure taken to reduce the barbarians.
 barbarians roam the kingdom and they build barbarian forts.
