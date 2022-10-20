@@ -16,7 +16,13 @@ if you're a hospitals or large enough or you are fast enough at healing your tro
 ### cooperation amongst alliance members
 Good cooperation amongst alliance members helps organize defensively very well.
 defensive tactics that are very well organized will help to stop attacks from other cities.
-Good communication and cooperation amongst alliance members helps keep a good natured peaceful attitude within the alliance and is a very useful tool for organizing commanders.
+I can't emphasize enough how much importance there is on cooperation while using defensive peacekeeping.
+when everyone is on board with the same strategy,
+ The battle advantages can be huge.
+for people that only have a small amount of time to play Rise of Kingdoms,
+in between work, family sleep, or any other endeavor they may have,
+this strategy works very well.
+Good communication and cooperation amongst alliance members keep a good natured peaceful attitude within the alliance and is a very useful tool for organizing commanders.
 ## peacekeeping
 The term peacekeeping is strictly used by the system in the rise of kingdoms game as a measure taken to reduce the barbarians.
 barbarians roam the kingdom and they build barbarian forts.
