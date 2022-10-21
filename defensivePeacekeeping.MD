@@ -38,3 +38,6 @@ you can message other alliances and ask them to maintain some civilized peaceful
 you may be surprised at how much other players welcome a peaceful experience while playing Rise of Kingdoms.
 some other players look down upon a lack of military effort.
 if you can maintain good and healthy communication with other alliances, I'm certain that you will have the positive experience and good natured relationships on line with other rise of kingdoms players in your kingdom.
+### using reinforcements to capture battle reports
+sometimes you may not be able to get some of your alliance members to submit a battle report when they are attacked.
+if you reinforce them with one troop only, then you minimize your losses and you may be able to generate a battle report.
