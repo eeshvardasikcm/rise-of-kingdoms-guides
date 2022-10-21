@@ -41,3 +41,11 @@ if you can maintain good and healthy communication with other alliances, I'm cer
 ### using reinforcements to capture battle reports
 sometimes you may not be able to get some of your alliance members to submit a battle report when they are attacked.
 if you reinforce them with one troop only, then you minimize your losses and you may be able to generate a battle report.
+there is a 25% calculation attributed to reinforcing a city.
+odds are it appears that if you reinforce a city with only one troop,
+you will not suffer any deaths.
+### Kingdom integrity versus Kingdom growth unlimited
+I've seen some YouTube videos online where shinji is talking about putting one troop in a Alliance flag to maximize income for the alliance and the alliance members.
+this is nice for gaining large amounts of Alliance credits.
+this technique does not by any means improve peacekeeping.
+peacekeeping requires communication amongst the members of the kingdom and cooperation amongst the members of the kingdom and the alliance.
