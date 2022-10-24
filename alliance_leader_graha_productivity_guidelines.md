@@ -22,4 +22,6 @@ go one character at a time starting at favorite character and ending at favorite
 18. repeat steps 12 through 17 until you run out of applicable speed boosts. You may want to avoid wasting expensive speed boosts. this is why I put the 1 minute speed boost here. if anything takes longer than 15 seconds and you have maximized the value of your speed boost spend, stop using speed boosts and move on to the next step.
 19. go to the city management screen and activate all production boosts. 
 20. go to the blacksmith and see if you have enough resources to refine or forge. if you need to produce new materials for a blacksmith goal, you can increase your production at this time.
-21. 
+21. there may be new items in the other section of your items bag that you want to open up or use. 
+22. campaign only needs to be done once or twice a month. Play until you can't win all three stars and then stop.
+23. 
