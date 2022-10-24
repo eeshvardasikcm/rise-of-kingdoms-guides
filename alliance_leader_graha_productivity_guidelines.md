@@ -6,4 +6,9 @@ go one character at a time starting at favorite character and ending at favorite
 2. tap the resource production icons to collect all resources that have been produced including the blacksmith production. Don't start any new blacksmith materials production at this time.
 3. Hit the mail button. Read and claim all non-personal mail. Don't handle personal mail yet.
 4. Scan the recent kingdom chat. send one or two messages relevant to Kingdom, chat scan. relevancy of message can also be gained from banner that streams across the top of the screen. it may take some time for a response from the first message that is relevant. You may want to save your second response for some time. if no one has any relevant response to your first message, You may not need to send a second message.
-5. 
+5. Hit the Alliance button to go to the Alliance Management screen.
+6. clear all notification dots as quickly as possible without engaging in new endeavors.
+7. you can join a rally in the war section if you see when you like. 
+8. purchase the cost of technology completion after donations or maxed and then changing the officers recommendation.
+9. Make sure the shop has minimum inventory of each item, if you are following my shop guidelines.
+
