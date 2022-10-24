@@ -13,4 +13,6 @@ go one character at a time starting at favorite character and ending at favorite
 9. Make sure the shop has minimum inventory of each item, if you are following my shop guidelines.
 10. purchase 1 minute speedups items. purchase 20 of them total. restock the 20 that you have purchased back in the store.
 11. The point is to not spend too much time here. clear the notification dots and get out of the alliance menu.
-12. 
+12. if you are following my guidelines on farm and lumber mill production then do those now.
+13. go to the city management screen and activate all production boosts. 
+14. 
