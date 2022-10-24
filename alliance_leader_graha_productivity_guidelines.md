@@ -1,5 +1,5 @@
 # Alliance leader Graha productivity guidelines
-use of graha time management principles for being an alliance leader in rise of kingdoms. Graha is a time management, project management, and Ayurveda app by Eeshvar Das available on the Google Play store for newer Google security compliant devices.
+use of graha time management principles for being an alliance leader in rise of kingdoms. Graha is a time management, project management, and Ayurveda app by Eeshvar Das available on the Google Play store for newer Google security compliant devices. I want to get my rise of kingdoms playing time down under 1 hour a day. then move my playing time down under 30 minutes a day. after that I may be able to move my playing down to less than 15 or 5 minutes a day. I will make adjustments to these guidelines to make those time management goals realized.
 ## guidelines as ordered list of instructions in general guidelines on how to follow ordered list
 go one character at a time starting at favorite character and ending at favorite character. favorite character should be your main alliance leader. in each character, follow the instructions in the following ordered lists one at a time without looping back to the first instruction in the list. when at the end of the list, move on to the next character. All other characters should not be favorites. All other characters should be iterated through from highest power to lowest power. should be no more than four normal characters. Don't engage in any game. play outside of these steps to maximize your personal productivity. The point is to allow Rise of Kingdoms players that are attracted to your alliance style to naturally join your alliance. if you have watched echo gaming, then you will know that echo gaming quit playing Rise of Kingdoms because of the large time commitment required by Rise of Kingdoms. echo gaming and some other game players prefer a smaller time commitment in games. I am creating this productivity guideline based from my graph app principles so that way I can increase my work productivity outside of recreation. You can follow these guidelines and you might find the same increases of productivity in your work. You may also find more time to add other types of recreation to your life.
 1. tap the icon in the upper right that leads to the event calendar screen. Remove any red notification dots so that the notification dots are removed from the main screen. Make any claims that you have earned along the way.
@@ -16,8 +16,10 @@ go one character at a time starting at favorite character and ending at favorite
 12. if you are following my guidelines on farm and lumber mill production then do those now.
 13. go to the builders Hut and hit the build button. if you can build the suggested building, then go ahead and build it. try not to spend the gems in order to increase your building's. I usually have a preferred method to spend gems prior to getting to screens that ask me to spend gems.
 14. press the upgrade button to upgrade your city hall. go to whatever building upgrades are necessary for a city hall upgrade, and upgrade them if possible.
-15. go to the tavern and recruit as many as possible.
-16. 
+15. go to the tavern and Open as many chests as possible.
+16. go to the academy and research whatever you can afford. if you need to upgrade the academy at this time and there is a builder slot open then you can go ahead and upgrade the academy.
+17. if you are increasing your troops count, You can initiate whatever military training you want to do right now.
+17. repeat steps 12 through 16 until you run out of applicable speed boosts.
 
 13. go to the city management screen and activate all production boosts. 
 14. go to the blacksmith and see if you have enough resources to refine or forge. if you need to produce new materials for a blacksmith goal, you can increase your production at this time.
