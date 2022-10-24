@@ -5,5 +5,5 @@ go one character at a time starting at favorite character and ending at favorite
 1. tap the icon in the upper right that leads to the event calendar screen. Remove any red notification dots so that the notification dots are removed from the main screen. Make any claims that you have earned along the way.
 2. tap the resource production icons to collect all resources that have been produced including the blacksmith production. Don't start any new blacksmith materials production at this time.
 3. Hit the mail button. Read and claim all non-personal mail. Don't handle personal mail yet.
-4. Scan the recent kingdom chat. send one or two messages relevant to Kingdom, chat scan. relevancy of message can also be gained from banner that streams across the top of the screen.
+4. Scan the recent kingdom chat. send one or two messages relevant to Kingdom, chat scan. relevancy of message can also be gained from banner that streams across the top of the screen. it may take some time for a response from the first message that is relevant. You may want to save your second response for some time. if no one has any relevant response to your first message, You may not need to send a second message.
 5. 
