@@ -12,3 +12,5 @@ go one character at a time starting at favorite character and ending at favorite
 8. purchase the cost of technology completion after donations or maxed and then changing the officers recommendation.
 9. Make sure the shop has minimum inventory of each item, if you are following my shop guidelines.
 10. purchase 1 minute speedups items. purchase 20 of them total. restock the 20 that you have purchased back in the store.
+11. The point is to not spend too much time here. clear the notification dots and get out of the alliance menu.
+12. 
