@@ -16,7 +16,8 @@ go one character at a time starting at favorite character and ending at favorite
 12. if you are following my guidelines on farm and lumber mill production then do those now.
 13. go to the builders Hut and hit the build button. if you can build the suggested building, then go ahead and build it. try not to spend the gems in order to increase your building's. I usually have a preferred method to spend gems prior to getting to screens that ask me to spend gems.
 14. press the upgrade button to upgrade your city hall. go to whatever building upgrades are necessary for a city hall upgrade, and upgrade them if possible.
-15. 
+15. go to the tavern and recruit as many as possible.
+16. 
 
 13. go to the city management screen and activate all production boosts. 
 14. go to the blacksmith and see if you have enough resources to refine or forge. if you need to produce new materials for a blacksmith goal, you can increase your production at this time.
