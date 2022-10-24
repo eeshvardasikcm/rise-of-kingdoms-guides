@@ -19,8 +19,7 @@ go one character at a time starting at favorite character and ending at favorite
 15. go to the tavern and Open as many chests as possible.
 16. go to the academy and research whatever you can afford. if you need to upgrade the academy at this time and there is a builder slot open then you can go ahead and upgrade the academy.
 17. if you are increasing your troops count, You can initiate whatever military training you want to do right now.
-17. repeat steps 12 through 16 until you run out of applicable speed boosts.
-
-13. go to the city management screen and activate all production boosts. 
-14. go to the blacksmith and see if you have enough resources to refine or forge. if you need to produce new materials for a blacksmith goal, you can increase your production at this time.
-
+18. repeat steps 12 through 17 until you run out of applicable speed boosts. You may want to avoid wasting expensive speed boosts. this is why I put the 1 minute speed boost here. if anything takes longer than 15 seconds and you have maximized the value of your speed boost spend, stop using speed boosts and move on to the next step.
+19. go to the city management screen and activate all production boosts. 
+20. go to the blacksmith and see if you have enough resources to refine or forge. if you need to produce new materials for a blacksmith goal, you can increase your production at this time.
+21. 
