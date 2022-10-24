@@ -11,4 +11,4 @@ go one character at a time starting at favorite character and ending at favorite
 7. you can join a rally in the war section if you see when you like. 
 8. purchase the cost of technology completion after donations or maxed and then changing the officers recommendation.
 9. Make sure the shop has minimum inventory of each item, if you are following my shop guidelines.
-
+10. purchase 1 minute speedups items. purchase 20 of them total. restock the 20 that you have purchased back in the store.
