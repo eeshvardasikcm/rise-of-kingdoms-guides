@@ -27,4 +27,5 @@ go one character at a time starting at favorite character and ending at favorite
 23. do the main quest item if it is possible to be done at this time and if it doesn't take more than a couple of minutes.
 24. do one side quest item if it is possible and it does not take more than one minute.
 25. go to the commander screen and Upgrade your commanders as quickly as possible to your own personal preferences.
-26. 
+26. You can zoom out now to assess the situation with neighboring alliances. take only a couple of minutes at most. Saving this step to last may help reduce reactiveness. try to be comfortable with the fact that you are maximizing your time management in your personal life. disputes or peacekeeping talks with neighboring alliances can wait until the next day. everybody needs to get more sleep than they are these days anyway.
+27. switch to the next character is described in the heading and go through this list again.
