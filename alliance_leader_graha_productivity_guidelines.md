@@ -26,4 +26,5 @@ go one character at a time starting at favorite character and ending at favorite
 22. campaign only needs to be done once or twice a month. Play until you can't win all three stars and then stop.
 23. do the main quest item if it is possible to be done at this time and if it doesn't take more than a couple of minutes.
 24. do one side quest item if it is possible and it does not take more than one minute.
-
+25. go to the commander screen and Upgrade your commanders as quickly as possible to your own personal preferences.
+26. 
