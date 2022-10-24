@@ -20,7 +20,7 @@ go one character at a time starting at favorite character and ending at favorite
 16. academy. go to the academy and research whatever you can afford. if you need to upgrade the academy at this time and there is a builder slot open then you can go ahead and upgrade the academy.
 17. troops training. if you are increasing your troops count, You can initiate whatever military training you want to do right now.
 18. Repeat steps 12 through 17 until you run out of applicable speed boosts. You may want to avoid wasting expensive speed boosts. this is why I put the 1 minute speed boost here. if anything takes longer than 15 seconds and you have maximized the value of your speed boost spend, stop using speed boosts and move on to the next step.
-19. city management. go to the city management screen and activate all production boosts. 
+19. city management. go to the city management screen and activate all production boosts and gathering boosts.
 20. blacksmith. go to the blacksmith and see if you have enough resources to refine or forge. if you need to produce new materials for a blacksmith goal, you can increase your production at this time.
 21. items. there may be new items in the other section of your items bag that you want to open up or use. 
 22. campaign. campaign only needs to be done once or twice a month. Play until you can't win all three stars and then stop.
