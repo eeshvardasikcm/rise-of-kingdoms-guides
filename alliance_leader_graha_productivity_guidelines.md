@@ -14,7 +14,7 @@ go one character at a time starting at favorite character and ending at favorite
 10. purchase 1 minute speedups items. purchase 20 of them total. restock the 20 that you have purchased back in the store.
 11. The point is to not spend too much time here. clear the notification dots and get out of the alliance menu.
 12. if you are following my guidelines on farm and lumber mill production then do those now.
-13. go to the builders Hut and hit the build button. if you can build the suggested building, then go ahead and build it. try not to spend the gems in order to increase your building's. I usually have a preferred method to spend gems prior to getting to screens that ask me to spend gems.
+13. go to the builders Hut and hit the build button. if you can build the suggested building, then go ahead and build it. try not to spend the gems in order to increase your building's. I usually have a preferred method to spend gems prior to getting to screens that ask me to spend gems. You can pull resources out of your items bag as necessary to make building possible.
 14. press the upgrade button to upgrade your city hall. go to whatever building upgrades are necessary for a city hall upgrade, and upgrade them if possible.
 15. go to the tavern and Open as many chests as possible.
 16. go to the academy and research whatever you can afford. if you need to upgrade the academy at this time and there is a builder slot open then you can go ahead and upgrade the academy.
@@ -24,4 +24,6 @@ go one character at a time starting at favorite character and ending at favorite
 20. go to the blacksmith and see if you have enough resources to refine or forge. if you need to produce new materials for a blacksmith goal, you can increase your production at this time.
 21. there may be new items in the other section of your items bag that you want to open up or use. 
 22. campaign only needs to be done once or twice a month. Play until you can't win all three stars and then stop.
-23. 
+23. do the main quest item if it is possible to be done at this time and if it doesn't take more than a couple of minutes.
+24. do one side quest item if it is possible and it does not take more than one minute.
+
