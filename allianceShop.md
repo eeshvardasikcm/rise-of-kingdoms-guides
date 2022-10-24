@@ -1,5 +1,9 @@
 # Alliance shop
 Alliance ranked number four members and Alliance leaders can load the Alliance shop up with inventory.
+## minimum amounts to give back to your alliance members
+- have at least one of each item in stock in the alliance store at all times.
+- items costing 10,000 credits or less to restock could have three items in stock.
+- have a minimum 1 minute speed up inventory of 20.
 ## individual and city development theory behind Alliance shops
 The Alliance Shop is for giving back to individual Alliance members that have helped the Alliance grow.
 most alliance leaders Will be excited to build flags for their alliance and put lower priority on the shop items.
