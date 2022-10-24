@@ -5,7 +5,7 @@ go one character at a time starting at favorite character and ending at favorite
 1. tap the icon in the upper right that leads to the event calendar screen. Remove any red notification dots so that the notification dots are removed from the main screen. Make any claims that you have earned along the way.
 2. tap the resource production icons to collect all resources that have been produced including the blacksmith production. Don't start any new blacksmith materials production at this time.
 3. Hit the mail button. Read and claim all non-personal mail. Don't handle personal mail yet.
-4. Scan the recent kingdom chat and alliance chat. send one or two messages relevant to Kingdom chat scan. relevancy of message can also be gained from banner that streams across the top of the screen. it may take some time for a response from the first message that is relevant. You may want to save your second response for some time. if no one has any relevant response to your first message, You may not need to send a second message. You can send an additional one or two messages in the alliance chat if needed. try to be concise. write the message in a way that you can leave and there will still be no misunderstanding or lingering communication needs. You can always check back tomorrow.
+4. Scan the recent kingdom chat, alliance chat and personal mail. send one or two messages relevant to Kingdom chat scan. relevancy of message can also be gained from banner that streams across the top of the screen. it may take some time for a response from the first message that is relevant. You may want to save your second response for some time. if no one has any relevant response to your first message, You may not need to send a second message. You can send an additional one or two messages in the alliance chat if needed. try to be concise. write the message in a way that you can leave and there will still be no misunderstanding or lingering communication needs. You can always check back tomorrow. do the same with personal mail as you did with alliance chat. there's no need to respond to every message. if you can blanket response to multiple people at the same time, that is okay. total you should be sending no more than five or six messages between all of these messaging options.
 5. Hit the Alliance button to go to the Alliance Management screen.
 6. clear all notification dots as quickly as possible without engaging in new endeavors.
 7. you can join a rally in the war section if you see when you like. 
@@ -14,5 +14,10 @@ go one character at a time starting at favorite character and ending at favorite
 10. purchase 1 minute speedups items. purchase 20 of them total. restock the 20 that you have purchased back in the store.
 11. The point is to not spend too much time here. clear the notification dots and get out of the alliance menu.
 12. if you are following my guidelines on farm and lumber mill production then do those now.
+13. go to the builders Hut and hit the build button. if you can build the suggested building, then go ahead and build it. try not to spend the gems in order to increase your building's. I usually have a preferred method to spend gems prior to getting to screens that ask me to spend gems.
+14. press the upgrade button to upgrade your city hall. go to whatever building upgrades are necessary for a city hall upgrade, and upgrade them if possible.
+15. 
+
 13. go to the city management screen and activate all production boosts. 
-14. 
+14. go to the blacksmith and see if you have enough resources to refine or forge. if you need to produce new materials for a blacksmith goal, you can increase your production at this time.
+
