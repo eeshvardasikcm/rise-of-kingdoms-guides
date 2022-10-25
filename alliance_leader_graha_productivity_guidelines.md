@@ -25,7 +25,7 @@ go one character at a time starting at favorite character and ending at favorite
 21. items. there may be new items in the other section of your items bag that you want to open up or use. 
 22. campaign. campaign only needs to be done once or twice a month. Play until you can't win all three stars and then stop.
 23. main quest. do the main quest item if it is possible to be done at this time and if it doesn't take more than a couple of minutes. collect all the claims that may have become residual.
-24. side quest. do one side quest item if it is possible and it does not take more than one minute. collect any claims that maybe residual.
+24. side quest. do one side quest item if it is possible and it does not take more than one minute. collect any claims that maybe residual including collecting claims from the daily quests.
 25. commanders. go to the commander screen and Upgrade your commanders as quickly as possible to your own personal preferences.
 26. event calendar claims. go back to the event calendars, screen and claim anything that you may have accomplished.
 27. gathering. send your troops out to gather the needed resources.
