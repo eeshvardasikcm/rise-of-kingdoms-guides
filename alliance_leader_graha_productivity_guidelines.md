@@ -1,15 +1,57 @@
 # Alliance leader Graha productivity guidelines
-use of graha time management principles for being an alliance leader in rise of kingdoms. Graha is a time management, project management, and Ayurveda app by Eeshvar Das available on the Google Play store for newer Google security compliant devices. I want to get my rise of kingdoms playing time down under 1 hour a day. then move my playing time down under 30 minutes a day. after that I may be able to move my playing down to less than 15 or 5 minutes a day. I will make adjustments to these guidelines to make those time management goals realized. The reason I started playing mobile games again in the first place, is because my work is very stressful and I have not had time to adjust to the large stress amounts by replacing my time with adequate Ayurveda and alternate recreation options. following these time management guidelines for mobile app, play will allow other types of recreation to open up and will maximize my Ayurveda gains. I used to play EA FIFA mobile soccer quite often to give myself some reprieve from stress. now I am owning and managing my own league in EA. FIFA soccer usually spending only five or 10 minutes a day maximum. playing mobile games actually helped to improve my health during times of large stress from work. there are far better ways to improve health and there are far better forms of recreation. I created extra characters simply to test the boundaries of the game a little bit. I want to see if I'm going to be able to migrate members from other kingdoms into my main alliance. these other characters may only require one small glance eventually. The big test will be is Rise of Kingdoms the type of game that I can leave my alliance in productivity mode and still gain membership. there is no way that I'm going to get drawn into the game that requires multiple hours a day to increase membership. My energy spend is far greater than monetary return gains from playing mobile apps. I also get far better games from other types of recreation and socialization. graha app does not yet have integrated energy spend evaluations. The Shrota considerate app and the graph app will have integrated energy spend and money spend thresholds integrated. I recently read the terms of service for playing Rise of Kingdoms. there is some general language that appears to allow some degree of marketing my own purposes in rise of kingdoms. The main problem I had is with bullying. The kingdom that my main character is in has had some large amount of anti-bullying chat in the kingdom chat space. The terms of service for rise of kingdoms generalizes anti-bullying by apparently warning users to be careful what they say to other users. I spent a large amount of time trying to arrange agreements with other alliances. I felt very dejected when some of those agreements were not honored. I feel like it let my alliance members down. there should be sufficient chat and mail time allowed in these guidelines to repair some of these broken contracts.
+Use of Graha time management principles for being an alliance leader in rise of kingdoms.
+Graha is a time management, project management, and Ayurveda app by Eeshvar Das, available on the Google Play store, for newer Google security compliant devices.
+I want to get my rise of kingdoms playing time down under 1 hour a day.
+Then move my playing time down under 30 minutes a day.
+After that I may be able to move my playing down to less than 15 or 5 minutes a day.
+I will make adjustments to these guidelines to make those time management goals realized.
+The reason I started playing mobile games again in the first place,
+is because my work is very stressful,
+and I have not had time to adjust to the large stress amounts,
+by replacing my time with,
+adequate Ayurveda and alternate recreation options.
+Following these time management guidelines for mobile app play, 
+will allow other types of recreation to open up,
+and will maximize my Ayurveda gains.
+I used to play EA FIFA Mobile Soccer quite often,
+to give myself some reprieve from stress.
+Now I am owning and managing my own league in EA FIFA Soccer, 
+usually spending only five or 10 minutes a day maximum.
+Playing mobile games has helped to improve my health,
+during times of large stress from work.
+There are better ways to improve health, 
+and there are better forms of recreation.
+I created extra characters simply to test the boundaries of the game a little bit.
+I want to see if I'm going to be able to migrate members from other kingdoms into my main alliance.
+These other characters may only require one small glance eventually.
+The big test will be is Rise of Kingdoms the type of game that I can leave my alliance in productivity mode,
+and still gain membership.
+There is no way that I'm going to get drawn into a game that requires multiple hours a day to increase membership
+My energy spend is far greater than monetary return gains from playing mobile apps.
+I also get better gains from other types of recreation and socialization.
+Graha app does not yet have integrated energy spend evaluations.
+The Shrota considerate app and the Graha app, 
+will have integrated energy spend and money spend thresholds integrated.
+I recently read the terms of service for playing Rise of Kingdoms.
+There is some general language that appears to allow some degree of marketing my own purposes in rise of kingdoms.
+The main problem I had is with being a new player in a powerful kingdom.
+The kingdom that my main character is in has had some large amount of anti-bullying chat in the kingdom chat space.
+The terms of service for Rise of Kingdoms generalizes anti-bullying by apparently warning users to be careful what they say to other users.
+I spent a large amount of time trying to arrange agreements with other alliances.
+There should be sufficient chat and mail time allowed in these guidelines,
+to keep relationships good.
 ## reduce character usage
-reducing character usage is a great way to increase productivity.
-initially, I thought that if I was able to create alliances in a couple of other kingdoms including an English kingdom or two, then I would be able to increase membership.
-making new characters did not increase membership in my Alliance.
-for this reason, I'm going to reduce the amount of characters that I'm using by one character each day that there is no new members in my alliance. this should help reduce my time commitment to under 1/2 hour per day easily.
+Reducing character usage is a great way to increase productivity.
+Creating alliances in a couple of other Kingdoms has helped to increase membership.
+For time management reasons,
+I'm going to reduce the amount of characters that I'm using,
+by one character each day that there is no new members in that alliance.
+This should easily reduce my time commitment to under 1/2 hour per day.
 - reduce character usage by one each day.
-- stop using the least powerful characters one at a time each day.
-- My original character may end up being the only character I still use by the end of the week.
-- requirements in Rise of Kingdoms to stay active as an alliance leader cause me to add this extra line. it will be necessary to log in with inactive characters at least once every five days to maintain alliance leadership. if I still don't have membership increases in my alliance after 15 days, then I will dismantle the alliances. I did want to test whether or not Rise of Kingdoms will allow me to dismantle an alliance and then use that same four-letter code for the alliance in a different kingdom. that test I can do during this process.
-- My least powerful character got invited to join a very powerful alliance. The first move I will make will be removing that character from that very powerful alliance. then I can allow that character to stand unaligned in the English language kingdom that I placed it in. I can then check in once every 15 days or even once every 3 months at this rate to see if there's any new messages coming in to that character.
+- stop using the least powerful characters one at a time each day, if their alliance is not gaining members.
+- My original character may eventually end up being the only character I still use.
+- requirements in Rise of Kingdoms to stay active as an alliance leader cause me to add this extra line. it will be necessary to log in with inactive characters at least once every five days to maintain alliance leadership. if I still don't have membership increases in my alliance after 15 days, then I will dismantle the alliances. I did test whether or not Rise of Kingdoms will allow me to dismantle an alliance and then use that same four-letter code for the alliance in a different kingdom. that test was successful. I migrated my alliance tag to a new kingdom.
+- I can check inactive characters once every 15 days or even once every month, to see if there's any new messages coming in to that character.
 ## guidelines as ordered list of instructions in general guidelines on how to follow ordered list
 go one character at a time starting at favorite character and ending at favorite character. favorite character should be your main alliance leader. in each character, follow the instructions in the following ordered lists one at a time without looping back to the first instruction in the list. when at the end of the list, move on to the next character. All other characters should not be favorites. All other characters should be iterated through from highest power to lowest power. should be no more than four normal characters. Don't engage in any game. play outside of these steps to maximize your personal productivity. The point is to allow Rise of Kingdoms players that are attracted to your alliance style to naturally join your alliance. if you have watched echo gaming, then you will know that echo gaming quit playing Rise of Kingdoms because of the large time commitment required by Rise of Kingdoms. echo gaming and some other game players prefer a smaller time commitment in games. I am creating this productivity guideline based from my graph app principles so that way I can increase my work productivity outside of recreation. You can follow these guidelines and you might find the same increases of productivity in your work. You may also find more time to add other types of recreation to your life.
 1. event calendar screen. tap the icon in the upper right that leads to the event calendar screen. Remove any red notification dots so that the notification dots are removed from the main screen. Make any claims that you have earned along the way.
