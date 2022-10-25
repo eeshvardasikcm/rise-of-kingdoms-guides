@@ -26,8 +26,9 @@ go one character at a time starting at favorite character and ending at favorite
 22. campaign. campaign only needs to be done once or twice a month. Play until you can't win all three stars and then stop.
 23. main quest. do the main quest item if it is possible to be done at this time and if it doesn't take more than a couple of minutes. collect all the claims that may have become residual.
 24. side quest. do one side quest item if it is possible and it does not take more than one minute. collect any claims that maybe residual including collecting claims from the daily quests.
-25. commanders. go to the commander screen and Upgrade your commanders as quickly as possible to your own personal preferences.
-26. event calendar claims. go back to the event calendars, screen and claim anything that you may have accomplished.
-27. gathering. send your troops out to gather the needed resources.
-28. You can zoom out now to assess the situation with neighboring alliances. take only a couple of minutes at most. Saving this step to last may help reduce reactiveness. try to be comfortable with the fact that you are maximizing your time management in your personal life. disputes or peacekeeping talks with neighboring alliances can wait until the next day. everybody needs to get more sleep than they are these days anyway.
-29. switch to the next character as described in the heading and go through this list again.
+25. heal troops. You may have some troops that need to be healed. You can heal them now.
+26. commanders. go to the commander screen and Upgrade your commanders as quickly as possible to your own personal preferences.
+27. event calendar claims. go back to the event calendars, screen and claim anything that you may have accomplished.
+28. gathering. send your troops out to gather the needed resources.
+29. You can zoom out now to assess the situation with neighboring alliances. take only a couple of minutes at most. Saving this step to last may help reduce reactiveness. try to be comfortable with the fact that you are maximizing your time management in your personal life. disputes or peacekeeping talks with neighboring alliances can wait until the next day. everybody needs to get more sleep than they are these days anyway.
+30. switch to the next character as described in the heading and go through this list again.
