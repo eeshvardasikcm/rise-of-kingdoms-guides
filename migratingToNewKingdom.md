@@ -1,5 +1,7 @@
 # Migrating to a new kingdom follow along
 written by EeshvarDasIKCM.
+## beginners migration
+if you restrict your city hall below level eight, then you can use a beginners migration in most cases. 
 ## acquiring the migration page
 I have watched some tutorials on YouTube and it appears that in order to migrate to a new kingdom, you need to have a migration page item in rise of Kingdoms.
 
@@ -32,3 +34,8 @@ communication inside Rise of Kingdoms and outside rise of Kingdoms appears to be
 ### occasional blog entries concerning alliance loyalty and cooperation
 - October 14th, as the leader of my alliance, I am making moves. that will help inform and educate my members better on how we will be able to make advances into larger game breaking moves including to migrating a whole Alliance into Kingdom versus Kingdom.
 - October 15th, I have decided to increase the requirements of cooperation and loyalty so that way we can meet the desires of some of our alliance members. One of our higher ranking members desires that migration pages be distributed to all of our members. our goals overall include migrating to Kingdom versus Kingdom as a whole alliance in one group. The goal is that once we reach Kingdom verse Kingdom, We will then assemble together in the same alliance. these goals will require more cooperation and loyalty than we are currently having. We also need more out of app communication. The percentage of members that are participating in out of app communication is very low. The best I could do right now is increase in app cooperation and in-app loyalty.
+- October 25th, The peacekeeping process has been going on for 10 days now. concerning the previous agreement with neighboring alliances. peace talks appear to be putting a stand still on cooperation within my province. talks appeared to be improving gradually. We have been having excellent internal Alliance cooperation as far as the appearance goes.
+
+### using the beginners migration page blog entries
+- October 25th, I have created extra characters for purposes of testing. how to migrate a whole alliance from one kingdom to another or even indicate them versus kingdom. I'm going to run some tests today, to determine whether it's possible to move the four letter tag for the alliance name to another kingdom.
+
