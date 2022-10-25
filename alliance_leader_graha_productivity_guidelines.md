@@ -28,7 +28,7 @@ go one character at a time starting at favorite character and ending at favorite
 24. side quest. do one side quest item if it is possible and it does not take more than one minute. collect any claims that maybe residual including collecting claims from the daily quests.
 25. heal troops. You may have some troops that need to be healed. You can heal them now.
 26. commanders. go to the commander screen and Upgrade your commanders as quickly as possible to your own personal preferences.
-27. event calendar claims. go back to the event calendars, screen and claim anything that you may have accomplished.
+27. residual claims. event calendar claims. go back to the event calendars, screen and claim anything that you may have accomplished. The quests menu may have some claims remaining. You may have finished research, training or healing. You can claim the new troops or research. Don't start a new training process, healing process or research process until tomorrow.
 28. gathering. send your troops out to gather the needed resources.
 29. You can zoom out now to assess the situation with neighboring alliances. take only a couple of minutes at most. Saving this step to last may help reduce reactiveness. try to be comfortable with the fact that you are maximizing your time management in your personal life. disputes or peacekeeping talks with neighboring alliances can wait until the next day. everybody needs to get more sleep than they are these days anyway.
 30. switch to the next character as described in the heading and go through this list again.
