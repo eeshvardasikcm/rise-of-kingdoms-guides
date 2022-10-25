@@ -46,4 +46,4 @@ communication inside Rise of Kingdoms and outside rise of Kingdoms appears to be
 ### using the beginners migration page as an alliance leader blog entries
 - October 25th, I have created extra characters for purposes of testing. how to migrate a whole alliance from one kingdom to another or even indicate them versus kingdom. I'm going to run some tests today, to determine whether it's possible to move the four letter tag for the alliance name to another kingdom.
 - October 25th, I noted down the alliance tag in a separate location. now I am disbanding the alliance. this process takes 1 hour.
-- October 25th, My alliance was successfully disbanded. within a matter of 10 minutes, I was able to migrate to a different kingdom, and create a new alliance with the same alliance tag. because no one had taken my alliance tag during that 10 minute, My Alliance tag was still available.
+- October 25th, My alliance was successfully disbanded. within a matter of 10 minutes, I was able to migrate to a different kingdom, and create a new alliance with the same alliance tag. because no one had taken my alliance tag during that 10 minutes, My Alliance tag was still available.
