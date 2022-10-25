@@ -36,6 +36,7 @@ communication inside Rise of Kingdoms and outside rise of Kingdoms appears to be
 - October 15th, I have decided to increase the requirements of cooperation and loyalty so that way we can meet the desires of some of our alliance members. One of our higher ranking members desires that migration pages be distributed to all of our members. our goals overall include migrating to Kingdom versus Kingdom as a whole alliance in one group. The goal is that once we reach Kingdom verse Kingdom, We will then assemble together in the same alliance. these goals will require more cooperation and loyalty than we are currently having. We also need more out of app communication. The percentage of members that are participating in out of app communication is very low. The best I could do right now is increase in app cooperation and in-app loyalty.
 - October 25th, The peacekeeping process has been going on for 10 days now. concerning the previous agreement with neighboring alliances. peace talks appear to be putting a stand still on cooperation within my province. talks appeared to be improving gradually. We have been having excellent internal Alliance cooperation as far as the appearance goes.
 
-### using the beginners migration page blog entries
+### using the beginners migration page as an alliance leader blog entries
 - October 25th, I have created extra characters for purposes of testing. how to migrate a whole alliance from one kingdom to another or even indicate them versus kingdom. I'm going to run some tests today, to determine whether it's possible to move the four letter tag for the alliance name to another kingdom.
+- October 25th, I noted down the alliance tag in a separate location. now I am disbanding the alliance. this process takes 1 hour.
 
