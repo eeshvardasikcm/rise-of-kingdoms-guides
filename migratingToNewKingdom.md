@@ -2,7 +2,14 @@
 written by EeshvarDasIKCM.
 ## beginners migration
 if you restrict your city hall below level eight, then you can use a beginners migration in most cases. 
+## tolerance in upgrading to City Hall level 8
+beginners migration no longer becomes possible after you upgrade your city hall to level eight.
+acquiring the migration page now becomes an act of tolerance.
+The easiest way to acquire the migration page is to get into a powerful alliance or create a merchant style alliance.
+You will then be able to petition your alliance leadership to sell you a migration page.
+if you create an alliance, You will be the first one in your alliance that will be able to buy a migration page for your character.
 ## acquiring the migration page
+
 I have watched some tutorials on YouTube and it appears that in order to migrate to a new kingdom, you need to have a migration page item in rise of Kingdoms.
 
 ### gaining Alliance credits quickly by building flags at a very slow pace
