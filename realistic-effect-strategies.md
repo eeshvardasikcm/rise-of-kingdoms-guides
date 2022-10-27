@@ -31,3 +31,9 @@ You will be stuck with focusing on the current buildings that you already have.
 You will have to either upgrade your city hall,
 or move some buildings around,
 in order to bring a new building into the complexity of your city.
+## rising with the morning sunstar
+The best thing in life,
+for balanced daily health,
+is rising before sunrise,
+and going to bed early enough with the sunset,
+and rising early before sunrise every morning.
