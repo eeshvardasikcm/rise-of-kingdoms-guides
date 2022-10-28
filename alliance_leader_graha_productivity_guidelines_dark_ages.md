@@ -11,7 +11,7 @@ a reduced task list will increase productivity.
 6. productivity maximize. maximize upgrades on farms, lumber mills, quarries, and gold mines.
 7. builders Hut.
 8. Upgrade City Hall.
-9. speedups burn loop. recruit. research. troops training. hospital upgrades maximized.
+9. optional. speedups burn loop. recruit. research. troops training. hospital upgrades maximized.
 10. city management. use all productivity boosts. gathering boost not necessary.
 11. blacksmith.
 12. items
