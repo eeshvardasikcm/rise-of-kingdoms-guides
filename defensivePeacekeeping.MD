@@ -49,3 +49,13 @@ I've seen some YouTube videos online where shinji is talking about putting one t
 this is nice for gaining large amounts of Alliance credits.
 this technique does not by any means improve peacekeeping.
 peacekeeping requires communication amongst the members of the kingdom and cooperation amongst the members of the kingdom and the alliance.
+## Alliance leadership theory
+There are various theories on how to maintain peaceful life and rise of kingdoms.
+This is not a comprehensive list of those theories.
+### The cooperative and loyal will stay
+those that are against your style of leadership,
+ will leave if you do not satisfy their tastes.
+those that are having a lack of ability to tolerate the humilities of cooperation and loyalty,
+Will be able to find better peace somewhere else.
+You can allow them to leave.
+your alliance will be more peaceful.
