@@ -37,3 +37,7 @@ for balanced daily health,
 is rising before sunrise,
 and going to bed early enough with the sunset,
 and rising early before sunrise every morning.
+# civilization change versus center fortress
+The center fortress and flag buildings style of alliance in rise of kingdoms lends to a more generic style of war game.
+if there was an alliance that were to decide to become the same civilization and put all of their cities in the same area,
+The visual and thematic effect would appear very realistic.
