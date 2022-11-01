@@ -8,6 +8,10 @@ You may want to keep the true strength of your military hidden from your allianc
 placing bamboo trees in between your main city buildings and your military buildings,
 Will make travel to the military building's,
 difficult even within your own city.
+#### After successfully performing peacekeeping for some time,
+you may find it necessary to remove some uncomfortable bamboo from your city.
+Clearing the bamboo and opening travel possibilities within your city,
+will allow for a civilization that does not war.
 ### military buildings along the back wall
 pop up notifications will be harder to see,
 when military buildings are away from the center of the city.
