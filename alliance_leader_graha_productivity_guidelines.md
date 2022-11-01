@@ -83,4 +83,5 @@ go one character at a time starting at favorite character and ending at favorite
 28. gathering. gather the needed resources.
 29. zoom out now to assess the situation with neighboring alliances. take only a minute at most. Saving this step to last may help reduce reactiveness. try to be comfortable with the fact that you are maximizing your time management in your personal life. disputes or peacekeeping talks with neighboring alliances can wait until the next day. get more sleep. be happier. be more productive in life.
 30. switch to the next character. go through this list again with the next character.
+## stopping the machine
 31. stop playing for the day, after completing your character list, or if you have exceeded your own personal time limits.
