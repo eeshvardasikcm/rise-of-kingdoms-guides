@@ -1,4 +1,4 @@
-# Alliance leader Graha productivity guidelines
+# Alliance leader Eeshvar Das productivity guidelines
 Use of Graha time management principles for being an alliance leader in rise of kingdoms.
 Graha is a time management, project management, and Ayurveda app by Eeshvar Das, available on the Google Play store, for newer Google security compliant devices.
 I want to get my rise of kingdoms playing time down under 1 hour a day.
