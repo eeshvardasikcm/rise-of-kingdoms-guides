@@ -1,4 +1,4 @@
-# alliance leader graha productivity guidelines for dark ages
+# alliance leader Eeshvar Das productivity guidelines for dark ages
 in the dark ages,
 your city has longer wait times.
 here is a guide that will focus on the most important tasks.
