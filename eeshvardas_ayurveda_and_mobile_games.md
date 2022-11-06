@@ -1,7 +1,7 @@
 # Eeshvar Das Ayurveda and Mobile Games
 ## Resorting to Entertainment
 ## Easy Mind to Counter Stressful Work
-Nearly equal amounts of time spent between,
+Nearly equal amounts of energy spent between,
 playing mobile games,
 and working a high stress job,
 has been okay for me.
