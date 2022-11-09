@@ -53,3 +53,9 @@ I am not certain if there is any difference.
 I would have to wait until I do a migration using the migration page available in the alliance store.
 beginners migration went smoothly.
 it'll be interesting to find out if the migration page works the same as the beginners migration I eat them.
+
+## season 1
+Kingdom versus Kingdom mode start,
+at the beginning of season 1.
+Please look at The new guide that I have started.
+season_one.md
