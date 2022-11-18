@@ -87,6 +87,18 @@ This change is,
 naturally creating a,
 larger space between
 work and recreation.
+#### making Ayurveda my work
+without some stressful work that pressures me,
+My mind and body needs a replacement.
+This is the way the mind and body works.
+The mind and body wants to continue
+doing the same thing it was doing previously.
+in this space I have right now,
+with no stressful pressures for work,
+my focus on Ayurveda is becoming systematically,
+the loving and desirable pressure,
+to replace the pressures of work,
+that my mind and body is accustomed to.
 ### health is very important
 health is the focus of attention right now.
 I am increasing the amount of money I'm spending on health,
