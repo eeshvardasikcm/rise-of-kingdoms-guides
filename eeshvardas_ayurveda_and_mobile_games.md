@@ -111,6 +111,45 @@ while I was working very many hours a week,
 it was easy and productive,
 to follow a proven daily routine.
 now I can make additional adjustments to my daily routine.
+### Adjusting to the unexpected 
+An update to this post after a couple of months.
+I have still been playing Rise of Kingdoms.
+The stresses of work have continued.
+I didn't expect to be welcomed into the Carbon Project so quickly.
+I thought I would post some comments and be able to keep the involvement low stress.
+I didn't expect Carbon Project to need my help as much as they do.
+There's no way I'm going to avoid this great opportunity.
+Also, there's some unexpected amount of dedication to Ayurveda.
+Once I started increasing the use of Ayurveda, my body responded by asking for more Ayurveda.
+I keep increasing the amount of Ayurveda and time spent helping with Carbon Project.
+The stress levels are lower with these two engagements.
+It's a positive experience overall.
+The unexpected nature of these new commitments,
+has led me to maintain a similar routine.
+Rise of Kingdoms has provided a Dungeons and Dragons like experience,
+without the friends.
+Dungeons and Dragons requires playing with friends for strict adherence to the rules.
+The positive results are that I'm learning more about what it would be like to be involved in Dungeons and Dragons.
+I'm also learning more about how Dungeons and Dragons based game systems operate.
+I have already started to use some Dungeons and Dragons style of concepts in developing my Shrota app.
+I likey won't have time to become fully dedicated to be becoming a real life Dungeons and Dragons player,
+but according to my philosophy of going with material flow to avoid unnecessary resistance to material nature,
+I have purchased a playing character and intended to at least paint it.
+### Knowing the self 
+I have a unique ability to allow material nature to coexist with my devotional potential.
+Many others on the devotional path have to put up strong resistance against material nature in order to avoid being lost again in material influence.
+I am convinced from soul to skin,
+that my path of devotion will not be changed.
+I am completely dedicated to the service of Krishna abd that's not going to change.
+### Choosing what to do less of and What to do More of
+Ayurveda sometimes recommends a light philosophy of acceptance of one's own bad habits,
+in order to maintain good positive confidence in pursuing Ayurveda as a means to improve.
+The stresses in my life have reduced.
+I think it's about time I start labeling RoK as something I absolutely need to force a reduction in time on.
+An equal amount of increase forced into Ayurveda may be safe now.
+The reduced stress appears to want to stay.
+The Ayurveda is consistently increasing.
+Ayurveda wants me to surrender to more subtle and higher consciousness forms of Ayurveda.
 ## There are Better Forms of Recreation
 ## There are Better Ways to Work
 ### Productivity, Balance, Health, Happiness
